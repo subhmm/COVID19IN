@@ -1,0 +1,317 @@
+ConfirmedForeignNational,ConfirmedIndianNational,Cured,Date,Deaths,State/UnionTerritory
+0,1,0,2020-01-30,0,Kerala
+0,1,0,2020-01-31,0,Kerala
+0,2,0,2020-02-01,0,Kerala
+0,3,0,2020-02-02,0,Kerala
+0,3,0,2020-02-03,0,Kerala
+0,3,0,2020-02-04,0,Kerala
+0,3,0,2020-02-05,0,Kerala
+0,3,0,2020-02-06,0,Kerala
+0,3,0,2020-02-07,0,Kerala
+0,3,0,2020-02-08,0,Kerala
+0,3,0,2020-02-09,0,Kerala
+0,3,0,2020-02-10,0,Kerala
+0,3,0,2020-02-11,0,Kerala
+0,3,0,2020-02-12,0,Kerala
+0,3,0,2020-02-13,0,Kerala
+0,3,0,2020-02-14,0,Kerala
+0,3,0,2020-02-15,0,Kerala
+0,3,0,2020-02-16,0,Kerala
+0,3,0,2020-02-17,0,Kerala
+0,3,0,2020-02-18,0,Kerala
+0,3,0,2020-02-19,0,Kerala
+0,3,0,2020-02-20,0,Kerala
+0,3,0,2020-02-21,0,Kerala
+0,3,0,2020-02-22,0,Kerala
+0,3,0,2020-02-23,0,Kerala
+0,3,0,2020-02-24,0,Kerala
+0,3,0,2020-02-25,0,Kerala
+0,3,0,2020-02-26,0,Kerala
+0,3,0,2020-02-27,0,Kerala
+0,3,0,2020-02-28,0,Kerala
+0,3,0,2020-02-29,0,Kerala
+0,3,0,2020-03-01,0,Kerala
+0,1,0,2020-03-02,0,Telengana
+0,3,0,2020-03-02,0,Kerala
+0,1,0,2020-03-02,0,Delhi
+0,1,0,2020-03-03,0,Telengana
+1,0,0,2020-03-03,0,Rajasthan
+0,3,3,2020-03-03,0,Kerala
+0,1,0,2020-03-03,0,Delhi
+0,6,0,2020-03-04,0,Uttar Pradesh
+0,3,3,2020-03-04,0,Kerala
+2,0,0,2020-03-04,0,Haryana
+0,1,0,2020-03-04,0,Delhi
+0,1,0,2020-03-04,0,Telengana
+14,1,0,2020-03-04,0,Rajasthan
+0,2,0,2020-03-05,0,Delhi
+2,0,0,2020-03-05,0,Haryana
+0,3,3,2020-03-05,0,Kerala
+14,1,0,2020-03-05,0,Rajasthan
+0,1,0,2020-03-05,0,Telengana
+0,7,0,2020-03-05,0,Uttar Pradesh
+0,3,0,2020-03-06,0,Delhi
+2,0,0,2020-03-06,0,Haryana
+0,3,3,2020-03-06,0,Kerala
+14,1,0,2020-03-06,0,Rajasthan
+0,7,0,2020-03-06,0,Uttar Pradesh
+0,1,0,2020-03-06,0,Telengana
+0,3,3,2020-03-07,0,Kerala
+0,7,0,2020-03-07,0,Uttar Pradesh
+0,2,0,2020-03-07,0,Union Territory of Ladakh
+0,1,0,2020-03-07,0,Telengana
+0,1,0,2020-03-07,0,Tamil Nadu
+0,3,0,2020-03-07,0,Delhi
+2,0,0,2020-03-07,0,Haryana
+14,1,0,2020-03-07,0,Rajasthan
+0,2,0,2020-03-08,0,Union Territory of Ladakh
+0,1,0,2020-03-08,0,Telengana
+0,1,0,2020-03-08,0,Tamil Nadu
+14,1,0,2020-03-08,0,Rajasthan
+0,8,3,2020-03-08,0,Kerala
+2,0,0,2020-03-08,0,Haryana
+0,3,0,2020-03-08,0,Delhi
+0,7,0,2020-03-08,0,Uttar Pradesh
+0,2,0,2020-03-09,0,Union Territory of Ladakh
+0,1,0,2020-03-09,0,Karnataka
+0,9,3,2020-03-09,0,Kerala
+0,2,0,2020-03-09,0,Maharashtra
+0,1,0,2020-03-09,0,Punjab
+14,1,0,2020-03-09,0,Rajasthan
+0,1,0,2020-03-09,0,Tamil Nadu
+0,1,0,2020-03-09,0,Telengana
+0,1,0,2020-03-09,0,Union Territory of Jammu and Kashmir
+0,7,0,2020-03-09,0,Uttar Pradesh
+2,0,0,2020-03-09,0,Haryana
+0,4,0,2020-03-09,0,Delhi
+0,7,0,2020-03-10,0,Uttar Pradesh
+0,2,0,2020-03-10,0,Union Territory of Ladakh
+0,4,0,2020-03-10,0,Delhi
+2,0,0,2020-03-10,0,Haryana
+0,4,0,2020-03-10,0,Karnataka
+0,15,3,2020-03-10,0,Kerala
+0,5,0,2020-03-10,0,Maharashtra
+0,1,0,2020-03-10,0,Punjab
+14,1,0,2020-03-10,0,Rajasthan
+0,1,0,2020-03-10,0,Tamil Nadu
+0,1,0,2020-03-10,0,Telengana
+0,1,0,2020-03-10,0,Union Territory of Jammu and Kashmir
+0,2,0,2020-03-11,0,Maharashtra
+0,5,0,2020-03-11,0,Delhi
+14,0,0,2020-03-11,0,Haryana
+0,17,3,2020-03-11,0,Kerala
+2,1,0,2020-03-11,0,Rajasthan
+0,1,0,2020-03-11,0,Telengana
+0,9,0,2020-03-11,0,Uttar Pradesh
+0,2,0,2020-03-11,0,Union Territory of Ladakh
+0,1,0,2020-03-11,0,Tamil Nadu
+0,1,0,2020-03-11,0,Union Territory of Jammu and Kashmir
+0,1,0,2020-03-11,0,Punjab
+0,4,0,2020-03-11,0,Karnataka
+0,6,0,2020-03-12,0,Delhi
+14,0,0,2020-03-12,0,Haryana
+0,17,3,2020-03-12,0,Kerala
+2,1,0,2020-03-12,0,Rajasthan
+0,1,0,2020-03-12,0,Telengana
+1,10,0,2020-03-12,0,Uttar Pradesh
+0,3,0,2020-03-12,0,Union Territory of Ladakh
+0,1,0,2020-03-12,0,Tamil Nadu
+0,1,0,2020-03-12,0,Union Territory of Jammu and Kashmir
+0,1,0,2020-03-12,0,Punjab
+0,4,0,2020-03-12,0,Karnataka
+0,11,0,2020-03-12,0,Maharashtra
+0,1,0,2020-03-12,0,Andhra Pradesh
+0,6,0,2020-03-13,0,Delhi
+14,0,0,2020-03-13,0,Haryana
+0,19,3,2020-03-13,0,Kerala
+2,1,0,2020-03-13,0,Rajasthan
+0,1,0,2020-03-13,0,Telengana
+1,10,0,2020-03-13,0,Uttar Pradesh
+0,3,0,2020-03-13,0,Union Territory of Ladakh
+0,1,0,2020-03-13,0,Tamil Nadu
+0,1,0,2020-03-13,0,Union Territory of Jammu and Kashmir
+0,1,0,2020-03-13,0,Punjab
+0,6,0,2020-03-13,1,Karnataka
+0,14,0,2020-03-13,0,Maharashtra
+0,1,0,2020-03-13,0,Andhra Pradesh
+0,7,1,2020-03-14,1,Delhi
+14,0,0,2020-03-14,0,Haryana
+0,19,3,2020-03-14,0,Kerala
+2,1,1,2020-03-14,0,Rajasthan
+0,1,0,2020-03-14,0,Telengana
+1,11,5,2020-03-14,0,Uttar Pradesh
+0,3,0,2020-03-14,0,Union Territory of Ladakh
+0,1,0,2020-03-14,0,Tamil Nadu
+0,2,0,2020-03-14,0,Union Territory of Jammu and Kashmir
+0,1,0,2020-03-14,0,Punjab
+0,6,0,2020-03-14,1,Karnataka
+0,14,0,2020-03-14,0,Maharashtra
+0,1,0,2020-03-14,0,Andhra Pradesh
+0,1,0,2020-03-15,0,Andhra Pradesh
+0,7,2,2020-03-15,1,Delhi
+14,0,0,2020-03-15,0,Haryana
+0,6,0,2020-03-15,1,Karnataka
+0,22,3,2020-03-15,0,Kerala
+0,32,0,2020-03-15,0,Maharashtra
+0,1,0,2020-03-15,0,Punjab
+2,2,3,2020-03-15,0,Rajasthan
+0,1,0,2020-03-15,0,Tamil Nadu
+0,3,1,2020-03-15,0,Telengana
+0,2,0,2020-03-15,0,Union Territory of Jammu and Kashmir
+0,3,0,2020-03-15,0,Union Territory of Ladakh
+1,12,4,2020-03-15,0,Uttar Pradesh
+0,1,0,2020-03-15,0,Uttarakhand
+0,1,0,2020-03-16,0,Andhra Pradesh
+0,7,2,2020-03-16,1,Delhi
+14,0,0,2020-03-16,0,Haryana
+0,6,0,2020-03-16,1,Karnataka
+0,23,3,2020-03-16,0,Kerala
+0,32,0,2020-03-16,0,Maharashtra
+0,1,0,2020-03-16,0,Odisha
+0,1,0,2020-03-16,0,Punjab
+2,2,3,2020-03-16,0,Rajasthan
+0,1,0,2020-03-16,0,Tamil Nadu
+0,3,1,2020-03-16,0,Telengana
+0,3,0,2020-03-16,0,Union Territory of Jammu and Kashmir
+0,4,0,2020-03-16,0,Union Territory of Ladakh
+1,12,4,2020-03-16,0,Uttar Pradesh
+0,1,0,2020-03-16,0,Uttarakhand
+0,1,0,2020-03-17,0,Andhra Pradesh
+0,8,2,2020-03-17,1,Delhi
+14,1,0,2020-03-17,0,Haryana
+0,11,0,2020-03-17,1,Karnataka
+2,24,3,2020-03-17,0,Kerala
+3,36,0,2020-03-17,1,Maharashtra
+0,1,0,2020-03-17,0,Odisha
+0,1,0,2020-03-17,0,Punjab
+2,2,3,2020-03-17,0,Rajasthan
+0,1,0,2020-03-17,0,Tamil Nadu
+2,3,1,2020-03-17,0,Telengana
+0,3,0,2020-03-17,0,Union Territory of Jammu and Kashmir
+0,6,0,2020-03-17,0,Union Territory of Ladakh
+1,14,5,2020-03-17,0,Uttar Pradesh
+0,1,0,2020-03-17,0,Uttarakhand
+0,1,0,2020-03-18,0,Andhra Pradesh
+1,9,2,2020-03-18,1,Delhi
+14,3,0,2020-03-18,0,Haryana
+0,11,0,2020-03-18,1,Karnataka
+2,25,3,2020-03-18,0,Kerala
+3,39,0,2020-03-18,1,Maharashtra
+0,1,0,2020-03-18,0,Odisha
+0,1,0,2020-03-18,0,Pondicherry
+0,1,0,2020-03-18,0,Punjab
+2,2,3,2020-03-18,0,Rajasthan
+0,1,0,2020-03-18,0,Tamil Nadu
+2,4,1,2020-03-18,0,Telengana
+0,3,0,2020-03-18,0,Union Territory of Jammu and Kashmir
+0,8,0,2020-03-18,0,Union Territory of Ladakh
+1,15,5,2020-03-18,0,Uttar Pradesh
+0,1,0,2020-03-18,0,Uttarakhand
+0,1,0,2020-03-18,0,West Bengal
+0,2,0,2020-03-19,0,Andhra Pradesh
+0,1,0,2020-03-19,0,Chattisgarh
+1,11,3,2020-03-19,1,Delhi
+14,3,0,2020-03-19,0,Haryana
+0,14,0,2020-03-19,1,Karnataka
+2,25,3,2020-03-19,0,Kerala
+3,44,0,2020-03-19,1,Maharashtra
+0,1,0,2020-03-19,0,Odisha
+0,1,0,2020-03-19,0,Pondicherry
+0,2,0,2020-03-19,1,Punjab
+2,5,3,2020-03-19,0,Rajasthan
+0,2,1,2020-03-19,0,Tamil Nadu
+2,4,1,2020-03-19,0,Telengana
+0,1,0,2020-03-19,0,Union Territory of Chandigarh
+0,4,0,2020-03-19,0,Union Territory of Jammu and Kashmir
+0,8,0,2020-03-19,0,Union Territory of Ladakh
+1,18,9,2020-03-19,0,Uttar Pradesh
+0,1,0,2020-03-19,0,Uttarakhand
+0,1,0,2020-03-19,0,West Bengal
+0,3,0,2020-03-20,0,Andhra Pradesh
+0,1,0,2020-03-20,0,Chhattisgarh
+1,16,5,2020-03-20,1,Delhi
+0,5,0,2020-03-20,0,Gujarat
+14,3,0,2020-03-20,0,Haryana
+0,15,1,2020-03-20,1,Karnataka
+2,26,3,2020-03-20,0,Kerala
+3,49,0,2020-03-20,1,Maharashtra
+0,2,0,2020-03-20,0,Odisha
+0,1,0,2020-03-20,0,Puducherry
+0,2,0,2020-03-20,1,Punjab
+2,15,3,2020-03-20,0,Rajasthan
+0,3,1,2020-03-20,0,Tamil Nadu
+9,8,1,2020-03-20,0,Telengana
+0,1,0,2020-03-20,0,Union Territory of Chandigarh
+0,4,0,2020-03-20,0,Union Territory of Jammu and Kashmir
+0,10,0,2020-03-20,0,Union Territory of Ladakh
+1,22,9,2020-03-20,0,Uttar Pradesh
+0,3,0,2020-03-20,0,Uttarakhand
+0,2,0,2020-03-20,0,West Bengal
+0,3,0,2020-03-21,0,Andhra Pradesh
+0,1,0,2020-03-21,0,Chhattisgarh
+1,25,5,2020-03-21,1,Delhi
+0,7,0,2020-03-21,0,Gujarat
+14,3,0,2020-03-21,0,Haryana
+0,2,0,2020-03-21,0,Himachal Pradesh
+0,15,1,2020-03-21,1,Karnataka
+7,33,3,2020-03-21,0,Kerala
+0,4,0,2020-03-21,0,Madhya Pradesh
+3,60,0,2020-03-21,1,Maharashtra
+0,2,0,2020-03-21,0,Odisha
+0,1,0,2020-03-21,0,Puducherry
+0,13,0,2020-03-21,1,Punjab
+2,15,3,2020-03-21,0,Rajasthan
+0,3,1,2020-03-21,0,Tamil Nadu
+11,10,1,2020-03-21,0,Telengana
+0,1,0,2020-03-21,0,Chandigarh
+0,4,0,2020-03-21,0,Jammu and Kashmir
+0,13,0,2020-03-21,0,Ladakh
+1,23,9,2020-03-21,0,Uttar Pradesh
+0,3,0,2020-03-21,0,Uttarakhand
+0,3,0,2020-03-21,0,West Bengal
+0,5,0,2020-03-22,0,Andhra Pradesh
+0,2,0,2020-03-22,1,Bihar
+0,1,0,2020-03-22,0,Chhattisgarh
+1,28,5,2020-03-22,1,Delhi
+0,18,0,2020-03-22,1,Gujarat
+14,7,0,2020-03-22,0,Haryana
+0,2,0,2020-03-22,0,Himachal Pradesh
+0,26,2,2020-03-22,1,Karnataka
+7,45,3,2020-03-22,0,Kerala
+0,4,0,2020-03-22,0,Madhya Pradesh
+3,64,0,2020-03-22,2,Maharashtra
+0,2,0,2020-03-22,0,Odisha
+0,1,0,2020-03-22,0,Puducherry
+0,21,0,2020-03-22,1,Punjab
+2,22,3,2020-03-22,0,Rajasthan
+2,5,1,2020-03-22,0,Tamil Nadu
+11,11,1,2020-03-22,0,Telengana
+0,5,0,2020-03-22,0,Chandigarh
+0,4,0,2020-03-22,0,Jammu and Kashmir
+0,13,0,2020-03-22,0,Ladakh
+1,26,9,2020-03-22,0,Uttar Pradesh
+0,3,0,2020-03-22,0,Uttarakhand
+0,4,0,2020-03-22,0,West Bengal
+0,7,0,2020-03-23,0,Andhra Pradesh
+0,2,0,2020-03-23,1,Bihar
+0,1,0,2020-03-23,0,Chhattisgarh
+1,28,5,2020-03-23,1,Delhi
+0,29,0,2020-03-23,1,Gujarat
+14,12,0,2020-03-23,0,Haryana
+0,2,0,2020-03-23,0,Himachal Pradesh
+0,33,2,2020-03-23,1,Karnataka
+7,60,3,2020-03-23,0,Kerala
+0,6,0,2020-03-23,0,Madhya Pradesh
+3,71,0,2020-03-23,2,Maharashtra
+0,2,0,2020-03-23,0,Odisha
+0,1,0,2020-03-23,0,Puducherry
+0,21,0,2020-03-23,1,Punjab
+2,26,3,2020-03-23,0,Rajasthan
+2,7,1,2020-03-23,0,Tamil Nadu
+10,22,1,2020-03-23,0,Telengana
+0,6,0,2020-03-23,0,Chandigarh
+0,4,0,2020-03-23,0,Jammu and Kashmir
+0,13,0,2020-03-23,0,Ladakh
+1,30,9,2020-03-23,0,Uttar Pradesh
+0,3,0,2020-03-23,0,Uttarakhand
+0,7,0,2020-03-23,0,West Bengal
