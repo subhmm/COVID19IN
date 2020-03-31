@@ -472,30 +472,30 @@ Cured,Date,Deaths,State/UnionTerritory,Total_cases
 2,2020-03-29,0,Uttarakhand,7
 11,2020-03-29,0,Uttar Pradesh,65
 0,2020-03-29,1,West Bengal,18
-1,2020-03-30,0,Andhra Pradesh,19
+1,2020-03-30,0,Andhra Pradesh,23
 0,2020-03-30,0,Andaman and Nicobar Islands,9
-0,2020-03-30,1,Bihar,11
+0,2020-03-30,1,Bihar,15
 0,2020-03-30,0,Chandigarh,8
 0,2020-03-30,0,Chhattisgarh,7
-6,2020-03-30,2,Delhi,53
+6,2020-03-30,2,Delhi,87
 0,2020-03-30,0,Goa,5
-1,2020-03-30,5,Gujarat,58
-17,2020-03-30,0,Haryana,33
+1,2020-03-30,6,Gujarat,69
+18,2020-03-30,0,Haryana,36
 0,2020-03-30,1,Himachal Pradesh,3
-1,2020-03-30,2,Jammu and Kashmir,31
-5,2020-03-30,3,Karnataka,80
-19,2020-03-30,1,Kerala,194
+2,2020-03-30,2,Jammu and Kashmir,48
+5,2020-03-30,3,Karnataka,83
+19,2020-03-30,1,Kerala,202
 3,2020-03-30,0,Ladakh,13
-0,2020-03-30,2,Madhya Pradesh,33
-25,2020-03-30,8,Maharashtra,193
+0,2020-03-30,3,Madhya Pradesh,47
+25,2020-03-30,8,Maharashtra,198
 0,2020-03-30,0,Manipur,1
 0,2020-03-30,0,Mizoram,1
 0,2020-03-30,0,Odisha,3
 0,2020-03-30,0,Puducherry,1
 1,2020-03-30,1,Punjab,38
-3,2020-03-30,0,Rajasthan,57
-4,2020-03-30,1,Tamil Nadu,50
-1,2020-03-30,1,Telengana,69
+3,2020-03-30,0,Rajasthan,59
+4,2020-03-30,1,Tamil Nadu,67
+1,2020-03-30,1,Telengana,71
 2,2020-03-30,0,Uttarakhand,7
-11,2020-03-30,0,Uttar Pradesh,75
-0,2020-03-30,1,West Bengal,19
+11,2020-03-30,0,Uttar Pradesh,82
+0,2020-03-30,2,West Bengal,22
